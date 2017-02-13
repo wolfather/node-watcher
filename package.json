@@ -6,6 +6,15 @@
   "scripts": {
     "test": "mocha tests/watcher.spec.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfather/node-watcher.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Watcher",
+    "javascript"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
